@@ -1,4 +1,4 @@
-## Teleporters
+## Teleporters (https://mods.factorio.com/mod/Teleporters)
 
 ![](data/entities/teleporters/teleporter-technology.png)
 
